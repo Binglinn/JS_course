@@ -49,5 +49,5 @@ const greaterThan50 = arr.filter((n) => n > 50);
 console.log(odds);
 console.log(greaterThan50);
 
-//array methods不會改變原本的array
+//array methods不會改變原本的array喔
 console.log(arr);
